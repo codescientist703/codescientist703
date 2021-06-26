@@ -1,6 +1,6 @@
 # :wave: Hey there! I'm Nihal Mittal
 
-<img align="right" alt="" height="360" width="640" src="https://static.zerochan.net/Okabe.Rintarou.full.762874.jpg" />
+<img align="right" alt="" height="180" width="320" src="https://static.zerochan.net/Okabe.Rintarou.full.762874.jpg" />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mittal-8a6230183/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.nihalmittal.me/)
