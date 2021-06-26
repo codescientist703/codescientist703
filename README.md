@@ -12,6 +12,7 @@ Hi, I am Nihal Mittal, a passionate software developer who loves developing awes
 - :coffee: I'm currently doing **Github** externship at [Frappe](https://frappe.io/).
 - :bicyclist: I'm currently learning **NodeJs**.
 - :snake: I love to make just about anything with **Python**.
+- :open_file_folder: : You can check out all my open-source contributions [here](https://codescientist703.github.io/kanban-chart/).
 - :speech_balloon: Ask me about anything [here](https://www.linkedin.com/in/nihal-mittal-8a6230183/)! I am happy to help.
 - :trollface: I am also a huge **anime** fan.
 
