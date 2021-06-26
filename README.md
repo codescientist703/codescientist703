@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Blog-381696?style=flat-square&logo=blogger&logoColor=white)](https://codingabs.com/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=codescientist703.codescientist703&style=flat-square&color=0088cc)
 
-Hi, I am Nihal Mittal, a passionate software developer who loves developing awesome looking full-stack web applications.
+Hi, I am Nihal Mittal, a passionate software developer who loves developing cool looking full-stack web applications.
 
 - :coffee: I'm currently doing **Github** externship at [Frappe](https://frappe.io/).
 - :bicyclist: I'm currently learning **NodeJs**.
