@@ -1,6 +1,6 @@
 # :wave: Hey there! I'm Nihal Mittal
 
-<img align="right" alt="" src="https://media.tenor.com/images/488ee06b6af0a3b892a88fd57f0a1f6e/tenor.gif" />
+<img align="right" alt="" height="360" width="640" src="https://static.zerochan.net/Okabe.Rintarou.full.762874.jpg" />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mittal-8a6230183/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.nihalmittal.me/)
@@ -14,4 +14,14 @@ Hi, I am Nihal Mittal, a passionate software developer who loves developing awes
 - :speech_balloon: Ask me about anything [here](https://www.linkedin.com/in/nihal-mittal-8a6230183/)! I am happy to help.
 - :trollface: I am also a huge anime fan.
 
-## Languages and Tools
+## Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
