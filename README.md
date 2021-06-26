@@ -15,7 +15,7 @@ Hi, I am Nihal Mittal, a passionate software developer who loves developing awes
 - :speech_balloon: Ask me about anything [here](https://www.linkedin.com/in/nihal-mittal-8a6230183/)! I am happy to help.
 - :trollface: I am also a huge **anime** fan.
 
-## Languages and Tools:
+## :rocket: Languages and Tools
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -27,7 +27,6 @@ Hi, I am Nihal Mittal, a passionate software developer who loves developing awes
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 
-## Github Stats:
+## :bar_chart: Github Stats
 
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codescientist703&count_private=true&theme=dracula)
-)
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codescientist703&count_private=true&theme=react)
