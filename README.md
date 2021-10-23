@@ -1,6 +1,6 @@
 # :wave: Hey there! I'm Nihal Mittal
 
-<img align="right" alt="Mad Scientist" height="200" width="340" src="http://seacats.net/danganronpa/src/137937845464.jpg" />
+<img align="right" alt="Mad Scientist" height="200" width="340" src="https://ambivalen.files.wordpress.com/2011/09/sg3.png" />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mittal-8a6230183/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.nihalmittal.me/)
